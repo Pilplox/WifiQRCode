@@ -11,7 +11,7 @@
 - Save the QR code as a PNG image in .py folder.
 
 ## Installation
-To use this project, you need to have Python installed alojng with segno
+To use this project, you need to have Python installed along with segno
 
 ```bash
 pip install segno
